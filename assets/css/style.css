@@ -46,3 +46,11 @@ h1 {
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	color: #777777;
 }
+
+footer{
+	text-align: center;
+	color: silver;
+	height: 65px;
+	background-color: #666666;
+	padding-top: 35px;
+}
